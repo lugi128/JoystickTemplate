@@ -1,0 +1,5 @@
+/Users/Sadek/Desktop/JoystickTemplate/JoystickTemplate/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Sadek/Desktop/JoystickTemplate/JoystickTemplate/bin/Debug/JoystickTemplate.exe.mdb
+/Users/Sadek/Desktop/JoystickTemplate/JoystickTemplate/bin/Debug/JoystickTemplate.exe
+/Users/Sadek/Desktop/JoystickTemplate/JoystickTemplate/obj/x86/Debug/JoystickTemplate.exe
+/Users/Sadek/Desktop/JoystickTemplate/JoystickTemplate/obj/x86/Debug/JoystickTemplate.exe.mdb
